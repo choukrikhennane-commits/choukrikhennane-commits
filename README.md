@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋, my name is Choukri , im a passionate computer science student transitioning into advanced international software engineering , robotique , and embedded systems . Currently im focused on building a solid foundation in core algorithms , mathematics and hardware architectures.
 
-<!--
-**choukrikhennane-commits/choukrikhennane-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🎯 **Current Goal:** Preparing for advanced academic tracks in China (C9 League/Project 985) and future Master's research in Robotics in Japan.
+- 💻 **Tech Interests:** Algorithmic Problem Solving, C/C++ Development, Embedded Systems, and AI-driven Automation.
+- 🌐 **Languages:** Arabic (Native), French (Native), English (Working Proficiency - Heading to C1), Chinese (Learning - Goal: HSK 4/5).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+- **Languages:** C, C++
+- **Environments & Tools:** VS Code, Git, GitHub
+- **Hardware (Learning):** Arduino Architecture
+
+## 📈 Current Summer Focus
+- [ ] Master HSK 1 Chinese Vocabulary & Grammar
+- [ ] Elevate English proficiency to solid C1 level
+- [ ] Build and document practical Arduino robotics mini-projects
